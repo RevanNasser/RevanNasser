@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi , I'm Rifan Alshahrani 👋
 
-<!--
-**RevanNasser/RevanNasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer   |   Mobile App Developer   |   Tech Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me 
+
+I'm a mobile app developer with a strong focus on delivering seamless user experiences. I specialize in building apps with **React Native**, **Expo**, and modern TypeScript-based architectures.
+
+---
+### 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevanNasser&layout=compact&theme=radical&card_width=500)
+
+
+### 🛠️ Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Dart
+- **Mobile:** React Native, Expo, Flutter
+- **Web:** Next.js, Tailwind CSS
+
+
+### 🔗 Connect With Me 
+
+- [LinkedIn](https://www.linkedin.com/in/rifan-alshahrani)
+- [YouTube Channel](https://www.youtube.com/@RevanAcademy)
+
